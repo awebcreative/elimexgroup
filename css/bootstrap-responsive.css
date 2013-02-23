@@ -950,6 +950,9 @@
 }
 
 @media (max-width: 979px) {
+
+
+
   body {
     padding-top: 0;
   }
@@ -965,7 +968,7 @@
   }
   .navbar-fixed-top .navbar-inner,
   .navbar-fixed-bottom .navbar-inner {
-    padding: 5px;
+     /* padding: 5px;  */
   }
   .navbar .container {
     width: auto;
@@ -1106,4 +1109,29 @@
     height: auto !important;
     overflow: visible !important;
   }
+  .row-slogan{
+	  	height: 114px;
+	  	width: 1170px;	
+	  	margin-bottom: 60px;
+	  	background-image: url(../img/slogan_text.png);
+	  	background-repeat: no-repeat;
+	  	background-position-x: 65px;
+	  	background-position-y: 13px;
+	  	
+	  }
+	  	
+  .row-slogan img {
+		margin-top: 12px;
+		margin-left: 60px;
+	}
+	
+	.heroBigBg {
+height: 558px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-image: url(../img/BG_slider.png);
+}
+
 }
