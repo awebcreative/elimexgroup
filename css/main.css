@@ -1,13 +1,26 @@
+@font-face {
+    font-family: 'MyriadProCondensed';
+    src: url('webfontkit/myriadpro-cond-webfont.eot');
+    src: url('webfontkit/myriadpro-cond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfontkit/myriadpro-cond-webfont.woff') format('woff'),
+         url('webfontkit/myriadpro-cond-webfont.ttf') format('truetype'),
+         url('webfontkit/myriadpro-cond-webfont.svg#MyriadProCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+@font-face {
+    font-family: 'MyriadProBlackCondensed';
+    src: url('webfontkit/myriadpro-blackcond-webfont.eot');
+    src: url('webfontkit/myriadpro-blackcond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfontkit/myriadpro-blackcond-webfont.woff') format('woff'),
+         url('webfontkit/myriadpro-blackcond-webfont.ttf') format('truetype'),
+         url('webfontkit/myriadpro-blackcond-webfont.svg#MyriadProBlackCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
-
-
-
-
+}
 
 
 
